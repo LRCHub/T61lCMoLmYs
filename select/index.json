@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "さあはじめよう",
+  "base_artist": "レミオロメン",
+  "createdAt": "2026-02-23T01:14:17.469028Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さあはじめよう",
+      "artist": "レミオロメン",
+      "has_synced": false,
+      "path": "select/pl_01_さあはじめよう_レミオロメン.txt"
+    }
+  ]
+}
